@@ -1,0 +1,64 @@
+.serv-outer-bg {
+	padding: 40px 20px;
+    border: 1px solid #dddddd;
+	-webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+	border-radius: 5px;
+	border-bottom: 3px solid #49260D;
+	background: #fff;
+}
+.serv-outer-bg:hover {
+	-webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+	-webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+	border-radius: 5px;
+}
+.margin-top-10 {
+    margin-top: 10px;
+ }
+ .mrg20{margin-top:20px;}
+
+ .icon-ctrl{background: #FFCB08;
+    padding: 21px 8px;
+    color: #fff;
+    border-radius: 50%;
+    font-size: 30px;
+    width: 70px;
+    height: 70px;}
+
+    .title{font-size:32px;font-weight:400;color:#7e7e7e;font-style:normal}
+    .list_control .list-item {
+        padding: 0;
+        list-style-type: none;
+    }
+    .list_control .list-item i {
+        float: left;
+        padding: 0;
+        margin: 5px;
+        margin-top: 5px;
+        color: #FFCB08;
+        font-size: 20px;
+        text-align: center;
+        border-radius: 50%;
+        width: 35px;
+        height: 35px;
+    }
+    .list_control .list-item li {
+        padding-left: 54px;
+        padding-bottom: 24px;
+        line-height: unset;
+        font-size: 18px;
+        padding-top: 10px;
+    }
+    .icon-bg{background: #fff;
+        padding: 8px!important;
+        box-shadow: 0 0 5px 0 rgba(1,3,4,.19);
+      }
+
+      .b-clr{color: #7e7e7e;}
+
+      .gray {background: #ffffff;border-bottom: 1px solid #f1f0ed;border-top: 1px solid #f1f0ed;color: #7e7e7e}
